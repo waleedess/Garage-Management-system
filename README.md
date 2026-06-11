@@ -116,11 +116,12 @@ Structured Programming — Faculty of Computer and Information Sciences, Ain Sha
 
 ## Team
 
-Built by a student team from Ain Shams University.  
-**Waleed Essam** — Team Leader
-**Hamza Khaled**
-**Mostafa Ahmed**
-**Mohamed Assad**
-**Omar Kamal**
-**Ahmed Elsayed**
-**Salama**
+Built by a 7-students team from Ain Shams University.  
+**1. Waleed Essam** — Team Leader
+
+**2. Hamza Khaled**
+**3. Mostafa Ahmed**
+**4. Mohamed Assad**
+**5. Omar Kamal**
+**6. Ahmed Elsayed**
+**7. Salama**
