@@ -1,6 +1,6 @@
 # Garage Management System
 
-A console-based multi-floor garage management system built in C++ for the Structured Programming course at Ain Shams University (AY 2025–2026).
+A console-based multi-floor garage management system built in C++ for the Structured Programming course at Ain Shams University (2025–2026).
 
 ## Overview
 
